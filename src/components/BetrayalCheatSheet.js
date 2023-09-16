@@ -148,9 +148,9 @@ class BetrayalCheatSheet extends React.Component {
                 </section>
                 <section id='footer'>
                     <h2>
-                        Last updated for 3.20. Made by Multigrain and <a href="https://github.com/poetools/BetrayalCheatSheet/graphs/contributors">others</a>.
+                        Last updated for 3.22. Made by Multigrain and <a href="https://github.com/poetools/BetrayalCheatSheet/graphs/contributors">others</a>.
                     </h2>
-                    <p class="source-code"><a href={'https://github.com/poetools/BetrayalCheatSheet'}>Source Code</a></p>
+                    <p class="source-code"><a href={'https://zhangliangliang.github.io/BetrayalCheatSheet/'}>Source Code</a></p>
                 </section>
             </div>
         );
